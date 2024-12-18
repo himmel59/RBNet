@@ -1,0 +1,31 @@
+#Unit is kcal/mol
+$t	1	$m	acetaldehyde_f	c_f	o_f	h_f	$w	-1	2	1	4	$e	642.58	$s	W4-17
+$t	1	$m	acetic_f	c_f	o_f	h_f	$w	-1	2	2	4	$e	764.355	$s	W4-17
+$t	1	$m	alcl_f	al_f	cl_f	$w	-1	1	1	$e	120.63	$s	W4-17
+$t	1	$m	alf_f	al_f	f_f	$w	-1	1	1	$e	161.76	$s	W4-17
+$t	1	$m	bh3_f	b_f	h_f	$w	-1	1	3	$e	264.81	$s	W4-17
+$t	1	$m	c2h3f_f	c_f	h_f	f_f	$w	-1	2	3	1	$e	545.63	$s	W4-17
+$t	1	$m	c2h6_f	c_f	h_f	$w	-1	2	6	$e	666.28	$s	W4-17
+$t	1	$m	cf4_f	f_f	c_f	$w	-1	4	1	$e	465.5	$s	W4-17
+$t	1	$m	ch_f	c_f	h_f	$w	-1	1	1	$e	79.99	$s	W4-17
+$t	1	$m	ch3_f	c_f	h_f	$w	-1	1	3	$e	289.08	$s	W4-17
+$t	1	$m	c-hcoh_f	c_f	h_f	o_f	$w	-1	1	2	1	$e	300.86	$s	W4-17
+$t	1	$m	c-hono_f	o_f	n_f	h_f	$w	-1	2	1	1	$e	299.31	$s	W4-17
+$t	1	$m	c-hooo_f	o_f	h_f	$w	-1	3	1	$e	221.15	$s	W4-17
+$t	1	$m	cl2o_f	o_f	cl_f	$w	-1	1	2	$e	96.94	$s	W4-17
+$t	1	$m	c-n2h2_f	h_f	n_f	$w	-1	2	2	$e	273.69	$s	W4-17
+$t	1	$m	co_f	c_f	o_f	$w	-1	1	1	$e	256.15	$s	W4-17
+$t	1	$m	f2o_f	f_f	o_f	$w	-1	2	1	$e	89.42	$s	W4-17
+$t	1	$m	hccf_f	c_f	h_f	f_f	$w	-1	2	1	1	$e	385.08	$s	W4-17
+$t	1	$m	hno_f	n_f	h_f	o_f	$w	-1	1	1	1	$e	196.78	$s	W4-17
+$t	1	$m	hoo_f	o_f	h_f	$w	-1	2	1	$e	165.97	$s	W4-17
+$t	1	$m	hs_f	s_f	h_f	$w	-1	1	1	$e	83.68	$s	W4-17
+$t	1	$m	n2h_f	h_f	n_f	$w	-1	1	2	$e	216.45	$s	W4-17
+$t	1	$m	nh_f	n_f	h_f	$w	-1	1	1	$e	78.34	$s	W4-17
+$t	1	$m	no2_f	n_f	o_f	$w	-1	1	2	$e	221.61	$s	W4-17
+$t	1	$m	si2h6_f	si_f	h_f	$w	-1	2	6	$e	503.09	$s	W4-17
+$t	1	$m	sif4_f	f_f	si_f	$w	-1	4	1	$e	565.92	$s	W4-17
+$t	1	$m	sio_f	si_f	o_f	$w	-1	1	1	$e	190.37	$s	W4-17
+$t	1	$m	so_f	s_f	o_f	$w	-1	1	1	$e	123.7	$s	W4-17
+$t	1	$m	so2_f	s_f	o_f	$w	-1	1	2	$e	254.42	$s	W4-17
+$t	1	$m	t-hono_f	o_f	n_f	h_f	$w	-1	2	1	1	$e	299.74	$s	W4-17
